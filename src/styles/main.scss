@@ -126,7 +126,7 @@ body{
             border-color: variaveis.$corDeFundoBotaoSecundario ;
 
             &:hover{
-                background-color: lighten(variaveis.$corDeFundoBotaoSecundario,3%);
+                background-color: lighten(variaveis.$corDeFundoBotaoSecundario ,3%);
             }
         }
         &--dark{
